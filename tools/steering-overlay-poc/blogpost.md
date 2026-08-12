@@ -1,4 +1,4 @@
-# Fixing The Assumptions Problem: Dynamic Structured Steering for Codex
+# Too Many Assumptions <br/> Structured Steering For Coding Agents
 
 Coding agents make dozens of small policy decisions while they work. Should a change receive a focused regression test or broad coverage? Does a breaking API change need an adapter? Should the agent stop after preparing a patch, open a pull request, or deploy the result? These choices are often absent from the initial request because their relevance only becomes clear after the agent has inspected the repository.
 
